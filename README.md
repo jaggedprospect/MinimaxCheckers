@@ -1,6 +1,6 @@
 # MinimaxCheckers
 
-This is a fun checkers program with a simple GUI and two AI variations.
+This is a neat checkers program with a simple GUI and two AI variations.
 
 The program supports Human vs. Human play, as well as Human vs. CPU and CPU vs. CPU.
 
